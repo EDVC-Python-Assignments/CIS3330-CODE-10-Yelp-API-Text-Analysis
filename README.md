@@ -18,7 +18,7 @@ In a Word or PDF, deliver a report of your analysis. Your report must include th
   * Report the results of your analysis
   * Offer a conclusion with the information you obtained from the analysis
   
-You need to submit the report in Blackboard and in your code repository. Finally, **do not forget** to submit all the code you use for your analysis, and that will be needed to replicate your work.
+You need to submit the report in Blackboard and in your code repository. Finally, **do not forget** to submit all the code you use for your analysis, and that will be needed to replicate your work in the code repository.
 
 ## Useful Python code
 
